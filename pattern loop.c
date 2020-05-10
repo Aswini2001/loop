@@ -9,7 +9,7 @@ int main()
 			printf(" ");
 		}
 		for(m=1;m<=i;m++){
-			printf("10");
+			printf("01");
 		}
        
      printf("\n");		
@@ -22,7 +22,7 @@ int main()
 			}
 			for(m=1;m<=n-i;m++)
 			{ 
-			printf("10");
+			printf("01");
 			}
 			printf("\n");
 				}		
